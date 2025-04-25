@@ -111,6 +111,4 @@ This is a basic UI intended for local use or testing purposes. If you're using i
 ## 📜 License
 
 MIT – free for personal or commercial use.
-```
 
----
